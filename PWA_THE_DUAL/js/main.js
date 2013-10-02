@@ -11,21 +11,32 @@ function kingFighter(){
     var rightDamage= 25;
     var round= 0;
     console.log('BEGIN!!!');
-    function roundAdvance(){
-        alert(leftFighter+':'+leftHealth+'    VS'    +rightFighter+':'+rightHealth);
-        for(i=0;i<10;i++){
-            player1Hit= leftDamage/2;
-            player2Hit= rightDamage/2;
-            player1Damage= Math.floor(Math.random()*player1Hit);
-            player2Damage= Math.floor(Math.random()*player2Hit);
-            leftHealth-=player1Damage;
-            rightHealth-=player2Damage;
-            console.log(leftFighter+':'+leftHealth+''+rightFighter+':'+rightHealth);
+    alert(leftFighter+':'+leftHealth+'    VS'    +rightFighter+':'+rightHealth);
+    for(i=0;i<10;i++){
+        player1Hit= leftDamage/2;
+        player2Hit= rightDamage/2;
+        player1Damage= Math.floor(Math.random()*player1Hit);
+        player2Damage= Math.floor(Math.random()*player2Hit);
+        leftHealth-=player1Damage;
+        rightHealth-=player2Damage;
+        console.log(leftFighter+':'+leftHealth+''+rightFighter+':'+rightHealth);
 
-            var result= winnerSelector();
+        var result= winnerSelector();
+        round++;
+        alert(leftFighter+':'+leftHealth+' '+round+' '+rightFighter+':'+rightHealth);
+        if(result==)
         }
-    }
+
 }
 function winnerSelector(){
-    re
+    var result= 'You Win!!'
+    if(leftHealth<1 && rightHealth<1){
+        result= 'No Winner!!'
+   }else if(leftHealth<1){
+            result= rightFighter+''+'wins!!!';
+   }else if(rightHealth<1){
+                result= leftFighter+''+'wins!!!'
+            }
+   return result;
+    }
 }
