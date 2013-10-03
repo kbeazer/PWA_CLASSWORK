@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9354382-8ae4-40fc-8957-465797b78107" name="Default" comment="" />
-    <ignored path="PWA_THE_DUAL.iws" />
+    <list default="true" id="4744e415-c385-4bd1-84d6-f3973f7f2cf3" name="Default" comment="" />
+    <ignored path="goal1_duel1.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="a9354382-8ae4-40fc-8957-465797b78107" time="1380654430933" ignored="false" />
-    <file path="/main.js" changelist="a9354382-8ae4-40fc-8957-465797b78107" time="1380748968732" ignored="false" />
+    <file path="/index.html" changelist="4744e415-c385-4bd1-84d6-f3973f7f2cf3" time="1380756706994" ignored="false" />
+    <file path="/main.js" changelist="4744e415-c385-4bd1-84d6-f3973f7f2cf3" time="1380757741023" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,14 +21,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="PWA_THE_DUAL" />
+    <favorites_list name="goal1_duel1" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="30" selection-start="95" selection-end="95" vertical-scroll-proportion="-3.75">
+            <state line="10" column="132" selection-start="230" selection-end="230" vertical-scroll-proportion="-2.75">
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="45" selection-start="318" selection-end="318" vertical-scroll-proportion="0.3181818">
+            <state line="9" column="34" selection-start="192" selection-end="192" vertical-scroll-proportion="0.18181819">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -55,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/js/initial.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
       </list>
@@ -98,27 +97,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_THE_DUAL" />
+              <option name="myItemId" value="goal1_duel1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_THE_DUAL" />
+              <option name="myItemId" value="goal1_duel1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_THE_DUAL" />
+              <option name="myItemId" value="goal1_duel1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_THE_DUAL" />
+              <option name="myItemId" value="goal1_duel1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_THE_DUAL" />
+              <option name="myItemId" value="goal1_duel1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -134,28 +133,18 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../goal1_assign_duel1 FINAL" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a9354382-8ae4-40fc-8957-465797b78107" name="Default" comment="" />
-      <created>1380654374097</created>
-      <updated>1380654374097</updated>
+      <changelist id="4744e415-c385-4bd1-84d6-f3973f7f2cf3" name="Default" comment="" />
+      <created>1380756618370</created>
+      <updated>1380756618370</updated>
     </task>
     <servers />
   </component>
@@ -244,14 +233,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="30" selection-start="95" selection-end="95" vertical-scroll-proportion="-3.75">
+        <state line="10" column="132" selection-start="230" selection-end="230" vertical-scroll-proportion="-2.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="45" selection-start="318" selection-end="318" vertical-scroll-proportion="0.3181818">
+        <state line="9" column="34" selection-start="192" selection-end="192" vertical-scroll-proportion="0.18181819">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
