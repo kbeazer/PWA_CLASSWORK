@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f47f0de-341f-4ff3-b993-4c8356c27c97" name="Default" comment="" />
-    <ignored path="WPF2_DAY1.iws" />
+    <list default="true" id="7dbac8a5-bab0-4227-801f-c61dbdd9d38c" name="Default" comment="" />
+    <ignored path="goal1_assign_duel1 FINAL.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="1f47f0de-341f-4ff3-b993-4c8356c27c97" time="1380637251792" ignored="false" />
-    <file path="/initial.js" changelist="1f47f0de-341f-4ff3-b993-4c8356c27c97" time="1380644627337" ignored="false" />
+    <file path="$PROJECT_DIR$/../PWA_CLASSWORK/PWA_THE_DUAL/js/main.js" changelist="7dbac8a5-bab0-4227-801f-c61dbdd9d38c" time="1380752916763" ignored="false" />
+    <file path="/main.js" changelist="7dbac8a5-bab0-4227-801f-c61dbdd9d38c" time="1380757741023" ignored="false" />
+    <file path="$PROJECT_DIR$/../PWA_CLASSWORK/goal1_duel1/index.html" changelist="7dbac8a5-bab0-4227-801f-c61dbdd9d38c" time="1380756711969" ignored="false" />
+    <file path="/index.html" changelist="7dbac8a5-bab0-4227-801f-c61dbdd9d38c" time="1380756706993" ignored="false" />
+    <file path="$PROJECT_DIR$/../PWA_CLASSWORK/goal1_duel1/js/main.js" changelist="7dbac8a5-bab0-4227-801f-c61dbdd9d38c" time="1380757910703" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,26 +24,24 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="WPF2_DAY1" />
+    <favorites_list name="goal1_assign_duel1 FINAL" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initial.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="18" selection-start="372" selection-end="372" vertical-scroll-proportion="0.16006097">
-              <folding>
-                <element signature="e#0#158#0" expanded="false" />
-              </folding>
+            <state line="9" column="12" selection-start="129" selection-end="129" vertical-scroll-proportion="0.20454545">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,19 +53,11 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="changedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/initial.js" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="10" />
     <option name="y" value="22" />
     <option name="width" value="1420" />
-    <option name="height" value="804" />
+    <option name="height" value="808" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -92,32 +85,31 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_DAY1" />
+              <option name="myItemId" value="goal1_assign_duel1 FINAL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_DAY1" />
+              <option name="myItemId" value="goal1_assign_duel1 FINAL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_DAY1" />
+              <option name="myItemId" value="goal1_assign_duel1 FINAL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_DAY1" />
+              <option name="myItemId" value="goal1_assign_duel1 FINAL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_DAY1" />
+              <option name="myItemId" value="goal1_assign_duel1 FINAL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -127,13 +119,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -151,15 +144,15 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1f47f0de-341f-4ff3-b993-4c8356c27c97" name="Default" comment="" />
-      <created>1380637077601</created>
-      <updated>1380637077601</updated>
+      <changelist id="7dbac8a5-bab0-4227-801f-c61dbdd9d38c" name="Default" comment="" />
+      <created>1380654848072</created>
+      <updated>1380654848072</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1420" height="804" extended-state="0" />
-    <editor active="false" />
+    <frame x="10" y="22" width="1420" height="808" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -247,12 +240,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/initial.js">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="18" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#158#0" expanded="false" />
-          </folding>
+        <state line="77" column="1" selection-start="2032" selection-end="2032" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -263,44 +254,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/initial.js">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#158#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="9" column="12" selection-start="129" selection-end="129" vertical-scroll-proportion="0.20454545">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/initial.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#158#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/initial.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="18" selection-start="372" selection-end="372" vertical-scroll-proportion="0.16006097">
-          <folding>
-            <element signature="e#0#158#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>

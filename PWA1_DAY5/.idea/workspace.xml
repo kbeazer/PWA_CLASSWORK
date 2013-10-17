@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f47f0de-341f-4ff3-b993-4c8356c27c97" name="Default" comment="" />
-    <ignored path="WPF2_DAY1.iws" />
+    <list default="true" id="ab3400c4-9ddb-442a-a4f9-1769fca9abb5" name="Default" comment="" />
+    <ignored path="PWA1_DAY5.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="1f47f0de-341f-4ff3-b993-4c8356c27c97" time="1380637251792" ignored="false" />
-    <file path="/initial.js" changelist="1f47f0de-341f-4ff3-b993-4c8356c27c97" time="1380644627337" ignored="false" />
+    <file path="/index.html" changelist="ab3400c4-9ddb-442a-a4f9-1769fca9abb5" time="1381624393953" ignored="false" />
+    <file path="/main.js" changelist="ab3400c4-9ddb-442a-a4f9-1769fca9abb5" time="1381624208097" ignored="false" />
+    <file path="$PROJECT_DIR$/../../PWA1/WK1/DUEL_ASSIGNMENT/goal4_assign_duel3/js/main.js" changelist="ab3400c4-9ddb-442a-a4f9-1769fca9abb5" time="1381415528794" ignored="false" />
+    <file path="$PROJECT_DIR$/../MID_TERM/goal6_assign_midterm/js/main.js" changelist="ab3400c4-9ddb-442a-a4f9-1769fca9abb5" time="1381624209241" ignored="false" />
+    <file path="$PROJECT_DIR$/../MID_TERM/goal6_assign_midterm/js/test_file.js" changelist="ab3400c4-9ddb-442a-a4f9-1769fca9abb5" time="1381624967911" ignored="false" />
+    <file path="$PROJECT_DIR$/../MID_TERM/goal6_assign_midterm/index.html" changelist="ab3400c4-9ddb-442a-a4f9-1769fca9abb5" time="1381624398633" ignored="false" />
+    <file path="/test_file.js" changelist="ab3400c4-9ddb-442a-a4f9-1769fca9abb5" time="1381624950753" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,26 +26,24 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="WPF2_DAY1" />
+    <favorites_list name="PWA1_DAY5" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
+            <state line="6" column="29" selection-start="94" selection-end="94" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initial.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="18" selection-start="372" selection-end="372" vertical-scroll-proportion="0.16006097">
-              <folding>
-                <element signature="e#0#158#0" expanded="false" />
-              </folding>
+            <state line="15" column="26" selection-start="331" selection-end="331" vertical-scroll-proportion="0.3429878">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,12 +59,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/initial.js" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
+    <option name="x" value="6" />
     <option name="y" value="22" />
     <option name="width" value="1420" />
     <option name="height" value="804" />
@@ -97,27 +100,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_DAY1" />
+              <option name="myItemId" value="PWA1_DAY5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_DAY1" />
+              <option name="myItemId" value="PWA1_DAY5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_DAY1" />
+              <option name="myItemId" value="PWA1_DAY5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_DAY1" />
+              <option name="myItemId" value="PWA1_DAY5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PWA_DAY1" />
+              <option name="myItemId" value="PWA1_DAY5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -151,15 +154,15 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1f47f0de-341f-4ff3-b993-4c8356c27c97" name="Default" comment="" />
-      <created>1380637077601</created>
-      <updated>1380637077601</updated>
+      <changelist id="ab3400c4-9ddb-442a-a4f9-1769fca9abb5" name="Default" comment="" />
+      <created>1381411162295</created>
+      <updated>1381411162295</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1420" height="804" extended-state="0" />
-    <editor active="false" />
+    <frame x="6" y="22" width="1420" height="804" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -247,60 +250,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/initial.js">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="18" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#158#0" expanded="false" />
-          </folding>
+        <state line="21" column="56" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="6" column="29" selection-start="94" selection-end="94" vertical-scroll-proportion="-3.75">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/initial.js">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#158#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="15" column="26" selection-start="331" selection-end="331" vertical-scroll-proportion="0.3429878">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/initial.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#158#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/initial.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="18" selection-start="372" selection-end="372" vertical-scroll-proportion="0.16006097">
-          <folding>
-            <element signature="e#0#158#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
